@@ -2,7 +2,7 @@
 
 Welcome to the Flask Blog repository! This is a simple blog application written in Flask, a Python web framework. This project allows users to create, read, update, and delete blog posts. It serves as a basic template for building your own Flask-based blog application.
 
-![Flask Blog Screenshot](https://example.com/screenshot.png) (Replace this URL with an actual screenshot of the project)
+![Flask Blog Screenshot](https://github.com/ASH1321/Flask_Blog/blob/main/screenshot.png)
 
 ## Table of Contents
 
